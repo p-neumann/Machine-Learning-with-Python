@@ -16,7 +16,7 @@
 [Carefully curated resource links for data science in one place](https://github.com/tirthajyoti/Data-science-best-resources)
 
 ## Requirements
-* **Python 3.6+**
+* **Python 3.6+** --
 * **NumPy (`pip install numpy`)**
 * **Pandas (`pip install pandas`)**
 * **Scikit-learn (`pip install scikit-learn`)**
